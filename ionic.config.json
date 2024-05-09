@@ -1,0 +1,7 @@
+{
+  "name": "electron-desktop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
